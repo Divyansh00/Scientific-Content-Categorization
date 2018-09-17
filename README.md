@@ -5,4 +5,4 @@ The application does the following things
 
 2.Identifies important key phrases from the given document.
 
-3.Provides targeted recommendation
+3.Provides targeted recommendation...
